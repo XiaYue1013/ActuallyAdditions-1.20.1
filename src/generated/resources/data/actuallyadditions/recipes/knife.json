@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:knife_blade"
+    },
+    {
+      "item": "actuallyadditions:knife_handle"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:knife"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "D": {
+      "item": "actuallyadditions:dough"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "CCC",
+    "EDS"
+  ],
+  "result": {
+    "item": "actuallyadditions:food_chocolate_cake"
+  },
+  "show_notification": true
+}

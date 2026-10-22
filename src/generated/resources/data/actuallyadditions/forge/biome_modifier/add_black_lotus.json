@@ -1,0 +1,7 @@
+{
+  "type": "actuallyadditions:bool_config_feature_modifier",
+  "biomes": "#minecraft:is_overworld",
+  "boolConfig": "generateLotus",
+  "features": "actuallyadditions:flower_black_lotus",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "actuallyadditions:restonia_crystal"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "O O"
+  ],
+  "result": {
+    "item": "actuallyadditions:restonia_helmet"
+  },
+  "show_notification": true
+}

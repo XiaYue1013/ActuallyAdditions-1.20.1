@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "actuallyadditions:food_baguette"
+    },
+    "C": {
+      "item": "actuallyadditions:food_cheese"
+    },
+    "F": {
+      "item": "minecraft:cooked_beef"
+    },
+    "K": {
+      "item": "actuallyadditions:knife"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "KCP",
+    "FB ",
+    "PCP"
+  ],
+  "result": {
+    "item": "actuallyadditions:food_submarine_sandwich"
+  },
+  "show_notification": true
+}

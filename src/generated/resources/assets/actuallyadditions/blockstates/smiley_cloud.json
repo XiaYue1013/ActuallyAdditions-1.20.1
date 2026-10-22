@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "actuallyadditions:block/smiley_cloud",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "actuallyadditions:block/smiley_cloud"
+    },
+    "facing=south": {
+      "model": "actuallyadditions:block/smiley_cloud",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "actuallyadditions:block/smiley_cloud",
+      "y": 270
+    }
+  }
+}

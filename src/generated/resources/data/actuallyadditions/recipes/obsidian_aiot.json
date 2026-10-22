@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:obsidian_axe"
+    },
+    {
+      "item": "actuallyadditions:obsidian_pickaxe"
+    },
+    {
+      "item": "actuallyadditions:obsidian_sword"
+    },
+    {
+      "item": "actuallyadditions:obsidian_shovel"
+    },
+    {
+      "item": "actuallyadditions:obsidian_hoe"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:obsidian_aiot"
+  }
+}

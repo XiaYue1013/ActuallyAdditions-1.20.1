@@ -1,0 +1,11 @@
+{
+  "type": "actuallyadditions:mining_lens",
+  "ingredient": {
+    "tag": "forge:stone"
+  },
+  "output_type": "item",
+  "result": {
+    "item": "minecraft:redstone_ore"
+  },
+  "weight": 200
+}

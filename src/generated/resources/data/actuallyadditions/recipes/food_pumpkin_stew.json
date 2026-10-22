@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "P": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "pattern": [
+    "P",
+    "B"
+  ],
+  "result": {
+    "item": "actuallyadditions:food_pumpkin_stew"
+  },
+  "show_notification": true
+}

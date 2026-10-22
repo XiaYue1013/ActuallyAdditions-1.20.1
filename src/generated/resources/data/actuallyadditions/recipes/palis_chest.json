@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "actuallyadditions:palis_crystal"
+    }
+  },
+  "pattern": [
+    "O O",
+    "OOO",
+    "OOO"
+  ],
+  "result": {
+    "item": "actuallyadditions:palis_chest"
+  },
+  "show_notification": true
+}

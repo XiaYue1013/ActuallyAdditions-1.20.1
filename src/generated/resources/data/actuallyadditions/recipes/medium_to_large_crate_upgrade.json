@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "actuallyadditions:crate_large"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WCW",
+    " W "
+  ],
+  "result": {
+    "item": "actuallyadditions:medium_to_large_crate_upgrade"
+  },
+  "show_notification": true
+}

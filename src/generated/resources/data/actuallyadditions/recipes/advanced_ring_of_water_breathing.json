@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:ring_of_water_breathing"
+    },
+    {
+      "item": "actuallyadditions:ender_star"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:advanced_ring_of_water_breathing"
+  }
+}

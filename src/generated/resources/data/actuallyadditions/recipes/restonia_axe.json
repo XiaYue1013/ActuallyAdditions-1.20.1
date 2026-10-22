@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "actuallyadditions:restonia_crystal"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "EE",
+    "ES",
+    " S"
+  ],
+  "result": {
+    "item": "actuallyadditions:restonia_axe"
+  },
+  "show_notification": true
+}

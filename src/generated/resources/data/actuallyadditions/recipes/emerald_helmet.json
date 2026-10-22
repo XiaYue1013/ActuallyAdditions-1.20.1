@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "O O"
+  ],
+  "result": {
+    "item": "actuallyadditions:emerald_helmet"
+  },
+  "show_notification": true
+}

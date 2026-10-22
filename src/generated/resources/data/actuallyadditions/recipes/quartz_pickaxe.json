@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "actuallyadditions:black_quartz"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "EEE",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "actuallyadditions:quartz_pickaxe"
+  },
+  "show_notification": true
+}

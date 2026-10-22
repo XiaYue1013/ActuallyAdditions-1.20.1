@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:iron_bars"
+    },
+    "C": {
+      "item": "actuallyadditions:advanced_coil"
+    },
+    "D": {
+      "item": "actuallyadditions:diamatine_crystal"
+    },
+    "I": {
+      "item": "actuallyadditions:empowered_enori_crystal"
+    },
+    "Q": {
+      "item": "actuallyadditions:iron_casing"
+    }
+  },
+  "pattern": [
+    "IQI",
+    "CDC",
+    "IBI"
+  ],
+  "result": {
+    "item": "actuallyadditions:solar_panel"
+  },
+  "show_notification": true
+}

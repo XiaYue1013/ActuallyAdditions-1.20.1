@@ -1,0 +1,14 @@
+{
+  "type": "actuallyadditions:solid_xp_loot",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {}
+    },
+    {
+      "condition": "minecraft:damage_source_properties",
+      "predicate": {}
+    }
+  ]
+}

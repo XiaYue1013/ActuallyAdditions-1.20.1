@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:quartz_axe"
+    },
+    {
+      "item": "actuallyadditions:quartz_pickaxe"
+    },
+    {
+      "item": "actuallyadditions:quartz_sword"
+    },
+    {
+      "item": "actuallyadditions:quartz_shovel"
+    },
+    {
+      "item": "actuallyadditions:quartz_hoe"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:quartz_aiot"
+  }
+}

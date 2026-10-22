@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "actuallyadditions:wood_casing"
+    },
+    "H": {
+      "item": "actuallyadditions:enori_crystal"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "CHC",
+    "WWW"
+  ],
+  "result": {
+    "item": "actuallyadditions:inputter"
+  },
+  "show_notification": true
+}

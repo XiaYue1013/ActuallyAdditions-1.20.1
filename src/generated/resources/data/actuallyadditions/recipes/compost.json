@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "actuallyadditions:wood_casing"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "W W",
+    "W W",
+    "WCW"
+  ],
+  "result": {
+    "item": "actuallyadditions:compost"
+  },
+  "show_notification": true
+}

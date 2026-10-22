@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "actuallyadditions:emeradic_crystal"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "EE",
+    " S",
+    " S"
+  ],
+  "result": {
+    "item": "actuallyadditions:emeradic_hoe"
+  },
+  "show_notification": true
+}

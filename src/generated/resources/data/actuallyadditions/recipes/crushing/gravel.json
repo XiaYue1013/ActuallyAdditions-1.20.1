@@ -1,0 +1,22 @@
+{
+  "type": "actuallyadditions:crushing",
+  "ingredient": {
+    "tag": "forge:gravel"
+  },
+  "result": [
+    {
+      "chance": 1.0,
+      "result": {
+        "Count": 1,
+        "id": "minecraft:flint"
+      }
+    },
+    {
+      "chance": 0.5,
+      "result": {
+        "Count": 1,
+        "id": "minecraft:flint"
+      }
+    }
+  ]
+}

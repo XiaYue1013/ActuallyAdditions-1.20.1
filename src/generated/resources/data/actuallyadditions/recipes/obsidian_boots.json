@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "O O",
+    "O O"
+  ],
+  "result": {
+    "item": "actuallyadditions:obsidian_boots"
+  },
+  "show_notification": true
+}

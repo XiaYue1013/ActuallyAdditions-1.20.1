@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "actuallyadditions:enori_crystal"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "EEE",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "actuallyadditions:enori_pickaxe"
+  },
+  "show_notification": true
+}

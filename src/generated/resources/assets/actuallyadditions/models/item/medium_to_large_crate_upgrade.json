@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "actuallyadditions:item/medium_to_large_crate_upgrade"
+  }
+}

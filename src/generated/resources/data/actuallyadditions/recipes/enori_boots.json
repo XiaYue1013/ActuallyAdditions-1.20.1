@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "actuallyadditions:enori_crystal"
+    }
+  },
+  "pattern": [
+    "O O",
+    "O O"
+  ],
+  "result": {
+    "item": "actuallyadditions:enori_boots"
+  },
+  "show_notification": true
+}

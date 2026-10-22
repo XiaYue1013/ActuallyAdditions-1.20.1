@@ -1,0 +1,29 @@
+
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+    modId="actuallyadditions"
+    version="${version}"
+    displayName="Actually Additions"
+    #logoFile="logo.png"
+    credits="Author: Ellpeck; Textures and Models: BootyToast, GlenthorLP, canitzp; Porters: Flanks, MrBysco, ErrorMikey; 1.20+ Textures: Ridanisaurus"
+    authors="Ellpeck"
+    description='''
+Actually Additions for Minecraft Forge 1.20.1 - The complete edition with all classic 1.12.2 features restored!
+
+Do you want Automation? Wireless Transport? Better Machines? A cup o' Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!
+'''
+[[dependencies.actuallyadditions]]
+    modId="forge"
+    mandatory=true
+    versionRange="${forge_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.actuallyadditions]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

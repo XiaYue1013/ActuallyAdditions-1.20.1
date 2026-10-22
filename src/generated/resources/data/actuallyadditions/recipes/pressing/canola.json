@@ -1,0 +1,10 @@
+{
+  "type": "actuallyadditions:pressing",
+  "fluid": {
+    "Amount": 80,
+    "FluidName": "actuallyadditions:canola_oil"
+  },
+  "ingredient": {
+    "item": "actuallyadditions:canola"
+  }
+}

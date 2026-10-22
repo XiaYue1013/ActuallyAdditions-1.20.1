@@ -1,0 +1,10 @@
+{
+  "type": "actuallyadditions:laser",
+  "energy": 155000,
+  "ingredient": {
+    "item": "minecraft:enchanted_book"
+  },
+  "result": {
+    "item": "minecraft:enchanted_book"
+  }
+}

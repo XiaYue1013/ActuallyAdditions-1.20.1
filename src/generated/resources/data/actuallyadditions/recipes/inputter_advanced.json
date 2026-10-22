@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:inputter"
+    },
+    {
+      "item": "actuallyadditions:advanced_coil"
+    },
+    {
+      "item": "actuallyadditions:black_quartz"
+    },
+    {
+      "item": "actuallyadditions:restonia_crystal"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:inputter_advanced"
+  }
+}

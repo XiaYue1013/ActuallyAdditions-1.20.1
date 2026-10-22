@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "actuallyadditions:diamatine_crystal_block"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    },
+    {
+      "item": "minecraft:potion"
+    },
+    {
+      "item": "actuallyadditions:ring"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:ring_of_fire_resistance"
+  }
+}

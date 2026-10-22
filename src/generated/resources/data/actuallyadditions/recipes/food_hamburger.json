@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:cooked_beef"
+    },
+    "C": {
+      "item": "actuallyadditions:food_cheese"
+    },
+    "K": {
+      "item": "actuallyadditions:knife"
+    },
+    "T": {
+      "item": "actuallyadditions:food_toast"
+    }
+  },
+  "pattern": [
+    "KT ",
+    "CB ",
+    " T "
+  ],
+  "result": {
+    "item": "actuallyadditions:food_hamburger"
+  },
+  "show_notification": true
+}

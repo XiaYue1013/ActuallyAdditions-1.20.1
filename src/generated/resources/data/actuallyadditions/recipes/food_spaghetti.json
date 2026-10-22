@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "N": {
+      "item": "actuallyadditions:food_noodle"
+    }
+  },
+  "pattern": [
+    "NNN",
+    " B "
+  ],
+  "result": {
+    "item": "actuallyadditions:food_spaghetti"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "actuallyadditions:item/chest_to_crate_upgrade"
+  }
+}

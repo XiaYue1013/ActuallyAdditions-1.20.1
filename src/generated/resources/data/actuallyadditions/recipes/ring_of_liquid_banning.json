@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "I": {
+      "item": "actuallyadditions:empowered_diamatine_crystal"
+    },
+    "O": {
+      "item": "actuallyadditions:ring"
+    }
+  },
+  "pattern": [
+    "BIB",
+    "IOI",
+    "BIB"
+  ],
+  "result": {
+    "item": "actuallyadditions:ring_of_liquid_banning"
+  },
+  "show_notification": true
+}

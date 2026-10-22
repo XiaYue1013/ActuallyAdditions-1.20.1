@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "actuallyadditions:item/food_fish_n_chips"
+  }
+}

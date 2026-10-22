@@ -1,0 +1,11 @@
+{
+  "type": "actuallyadditions:liquid_fuel",
+  "fuel": {
+    "Amount": 50,
+    "FluidName": "actuallyadditions:canola_oil"
+  },
+  "result": {
+    "burn_time": 100,
+    "total_energy": 4000
+  }
+}

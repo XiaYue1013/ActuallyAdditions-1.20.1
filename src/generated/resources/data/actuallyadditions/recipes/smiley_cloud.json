@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "X": {
+      "item": "actuallyadditions:solidified_experience"
+    }
+  },
+  "pattern": [
+    " W ",
+    "WXW",
+    " W "
+  ],
+  "result": {
+    "item": "actuallyadditions:smiley_cloud"
+  },
+  "show_notification": true
+}

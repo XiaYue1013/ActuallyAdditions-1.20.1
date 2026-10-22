@@ -1,0 +1,14 @@
+// 1.20.1	2026-10-19T15:21:14.2957855	Block Tags
+8665de82dd3d3a1351ce58f78108214f359104b0 data/actuallyadditions/tags/blocks/mineable/aio.json
+f7dc293929a2176bc6e428c765f6bf49fbeccdb5 data/actuallyadditions/tags/blocks/mineable/drill.json
+19d96265c7adc1657153cf5faea40911854ac8ed data/forge/tags/blocks/ores.json
+2bcfae7c119b0b64170989e7d41b352a8d55ea43 data/forge/tags/blocks/ores/black_quartz.json
+2bcfae7c119b0b64170989e7d41b352a8d55ea43 data/forge/tags/blocks/ores_in_ground/stone.json
+9b000071fcf517e2e48e92eb30bd4b0785cec28a data/forge/tags/blocks/storage_blocks.json
+6c9a3c952d8fad5bfd8a5ab0b76aeb0b930d1db9 data/forge/tags/blocks/storage_blocks/black_quartz.json
+7ce315d2c2d37d63e6e1ac1e6c632a60f5de88c4 data/minecraft/tags/blocks/flowers.json
+ecd16755eaa24dc976b22bcd9b7ed3a9c2b85ed3 data/minecraft/tags/blocks/mineable/axe.json
+a5a697233fef122849b0129c18a5b9c8fc324cfe data/minecraft/tags/blocks/mineable/pickaxe.json
+70c0a4b4c849656b8a7cf91f86f0d433be9c3bcc data/minecraft/tags/blocks/needs_stone_tool.json
+7ce315d2c2d37d63e6e1ac1e6c632a60f5de88c4 data/minecraft/tags/blocks/small_flowers.json
+f74407e86c92d0d9435d62ff0f95999f3a84c674 data/minecraft/tags/blocks/walls.json

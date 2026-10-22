@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "actuallyadditions:block/item_repairer_top",
+    "bottom": "actuallyadditions:block/item_repairer_bottom",
+    "side": "actuallyadditions:block/item_repairer"
+  }
+}

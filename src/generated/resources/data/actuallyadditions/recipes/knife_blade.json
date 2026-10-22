@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "K": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "K",
+    "K",
+    "F"
+  ],
+  "result": {
+    "item": "actuallyadditions:knife_blade"
+  },
+  "show_notification": true
+}

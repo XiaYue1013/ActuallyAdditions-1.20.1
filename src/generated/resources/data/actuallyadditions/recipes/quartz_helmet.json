@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "actuallyadditions:black_quartz"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "O O"
+  ],
+  "result": {
+    "item": "actuallyadditions:quartz_helmet"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "actuallyadditions:emerald_axe"
+    },
+    {
+      "item": "actuallyadditions:emerald_pickaxe"
+    },
+    {
+      "item": "actuallyadditions:emerald_sword"
+    },
+    {
+      "item": "actuallyadditions:emerald_shovel"
+    },
+    {
+      "item": "actuallyadditions:emerald_hoe"
+    }
+  ],
+  "result": {
+    "item": "actuallyadditions:emerald_aiot"
+  }
+}

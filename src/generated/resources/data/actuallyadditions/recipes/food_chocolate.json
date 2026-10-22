@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "C C",
+    "CMC",
+    "C C"
+  ],
+  "result": {
+    "count": 3,
+    "item": "actuallyadditions:food_chocolate"
+  },
+  "show_notification": true
+}

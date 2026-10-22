@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "actuallyadditions:food_french_fry"
+    },
+    "I": {
+      "item": "minecraft:cooked_cod"
+    },
+    "P": {
+      "item": "actuallyadditions:paper_cone"
+    }
+  },
+  "pattern": [
+    "FIF",
+    " P "
+  ],
+  "result": {
+    "item": "actuallyadditions:food_fish_n_chips"
+  },
+  "show_notification": true
+}

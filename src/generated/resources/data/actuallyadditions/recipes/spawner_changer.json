@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "actuallyadditions:empowered_diamatine_crystal_block"
+    },
+    "M": {
+      "item": "minecraft:magma_cream"
+    },
+    "S": {
+      "item": "actuallyadditions:spawner_shard"
+    }
+  },
+  "pattern": [
+    "MSM",
+    "SDS",
+    "MSM"
+  ],
+  "result": {
+    "item": "actuallyadditions:spawner_changer"
+  },
+  "show_notification": true
+}

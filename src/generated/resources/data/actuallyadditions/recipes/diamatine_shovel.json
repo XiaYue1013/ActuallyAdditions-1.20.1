@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "actuallyadditions:diamatine_crystal"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "E",
+    "S",
+    "S"
+  ],
+  "result": {
+    "item": "actuallyadditions:diamatine_shovel"
+  },
+  "show_notification": true
+}
